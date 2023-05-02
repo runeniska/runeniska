@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @runeniska
-- 📚 I have recently graduated from my Software Engineering Master's studies at Aalto University
-- ✨ I have worked as a developer, Scrum Master and Product Owner in different projects
-- 💻 Public projects on GitLab: https://version.aalto.fi/gitlab/niskar1
+- 📚 MSc (Tech)
+- 💻 Software Engineer at Komu Homes
+- ✨ I have worked as a Software Engineer, Scrum Master and Product Owner in various projects
 - 📫 Reach me: niska.rune@gmail.com
 
 <!---
